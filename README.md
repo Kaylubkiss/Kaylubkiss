@@ -4,20 +4,22 @@ I'm Caleb. I love programming C/C++ systems, and am in active development of my 
 
 :mortar_board: I graduated from **DigiPen Institute of Technology** (DIT), with a *Bachelor of Science in Computer Science in Real-Time Interactive Simulation*.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="media/material-rendering-progress-feb2026.png" alt="material Rendering WIP" width="300px" />
-      <br />
-      <b>Material Testing in the Engine. <b>WIP</b> from Feb. 2026.</b>
-    </td>
-    <td align="center">
-      <img src="media/ibl-teacup-may2026.png" alt="IBL rendering" width="300px" />
-      <br />
-      <b>Image-Based Lighting (IBL) from May 2026.</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="media/material-rendering-progress-feb2026.png" alt="material Rendering WIP" width="300px" />
+          <br />
+          <b>Material Testing in the Engine. <b>WIP</b> from Feb. 2026.</b>
+        </td>
+        <td align="center">
+          <img src="media/ibl-teacup-may2026.png" alt="IBL rendering" width="300px" />
+          <br />
+          <b>Image-Based Lighting (IBL) from May 2026.</b>
+        </td>
+      </tr>
+    </table>
+</div>
 
 Many more features to come!!!!
 
