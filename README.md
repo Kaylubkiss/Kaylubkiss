@@ -1,6 +1,6 @@
 ## :wave: :wave: Hello Hello!!! Welcome to my page :wave: :wave:
 
-I'm Caleb. I love programming C/C++ systems, and am actively developing my own ![graphics engine](https://github.com/Kaylubkiss/CWKVulkanEngine) built with Vulkan.
+I'm Caleb. I love programming C/C++ systems, and am actively developing my own ![graphics engine](https://github.com/Kaylubkiss/CWKVulkanEngine) with Vulkan.
 
 I want to push what's possible with real-time interactive graphics.
 
