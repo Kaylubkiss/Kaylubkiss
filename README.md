@@ -4,7 +4,13 @@ I'm Caleb. I love programming C/C++ systems, and am in active development of my 
 
 :mortar_board: I graduated from **DigiPen Institute of Technology** (DIT), with a *Bachelor of Science in Computer Science in Real-Time Interactive Simulation*.
 
+| ![material Rendering WIP](media/material-rendering-progress-feb2026.png) |
+|:------------------------------------------------------------------------:|
+|       Material Testing in the Engine. **WIP** from February 2026.        |
 
+|   ![IBL rendering](media/ibl-teacup-may2026.png)    |
+|:---------------------------------------------------:|
+| Image-Based Lighting (IBL) rendering from May 2026. |
 
 ### Languages
 
