@@ -17,7 +17,7 @@ My goal is to push my knowledge on what's possible with real-time interactive gr
         <td align="center">
           <img src="media/material-rendering-progress-feb2026.png" alt="material Rendering WIP" width="300px" />
           <br />
-          <b>Material Testing in the Engine. <b>WIP</b> from Feb. 2026.</b>
+          <b>Material Integration in the Engine. <b>WIP</b> from Feb. 2026.</b>
         </td>
         <td align="center">
           <img src="media/ibl-teacup-may2026.png" alt="IBL rendering" width="300px" />
