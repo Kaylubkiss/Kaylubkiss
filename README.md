@@ -1,10 +1,13 @@
 ## :wave: :wave: Hello Hello!!! Welcome to my page :wave: :wave:
 
-I'm Caleb. I love programming C/C++ systems, and am in active development of my own ![graphics engine](https://github.com/Kaylubkiss/CWKVulkanEngine) built with Vulkan.
+I'm Caleb. I love programming C/C++ systems, and am actively developing my own ![graphics engine](https://github.com/Kaylubkiss/CWKVulkanEngine) built with Vulkan.
 
-:mortar_board: I graduated from **DigiPen Institute of Technology** (DIT), with a *Bachelor of Science in Computer Science in Real-Time Interactive Simulation*.
+I want to push what's possible with real-time interactive graphics.
+
+:mortar_board: Graduated from **DigiPen Institute of Technology** (DIT), with a *Bachelor of Science in Computer Science in Real-Time Interactive Simulation*.
 
 <div align="center">
+    <h3>Progress Snippets</h3>
     <table>
       <tr>
         <td align="center">
@@ -20,8 +23,6 @@ I'm Caleb. I love programming C/C++ systems, and am in active development of my 
       </tr>
     </table>
 </div>
-
-Many more features to come!!!!
 
 ### Languages
 
