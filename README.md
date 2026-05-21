@@ -1,6 +1,10 @@
-## Hi there 👋
+## :wave: :wave: Hello Hello!!! Welcome to my page :wave: :wave:
 
-I'm Caleb. I love programming C/C++ systems, and I'm currently working on my own ![graphics engine](https://github.com/Kaylubkiss/CWKVulkanEngine) built with Vulkan.
+I'm Caleb. I love programming C/C++ systems, and am in active development of my own ![graphics engine](https://github.com/Kaylubkiss/CWKVulkanEngine) built with Vulkan.
+
+:mortar_board: I graduated from **DigiPen Institute of Technology** (DIT), with a *Bachelor of Science in Computer Science in Real-Time Interactive Simulation*.
+
+
 
 ### Languages
 
@@ -19,17 +23,4 @@ I'm Caleb. I love programming C/C++ systems, and I'm currently working on my own
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<!--
-**Kaylubkiss/Kaylubkiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
