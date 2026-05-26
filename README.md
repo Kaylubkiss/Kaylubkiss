@@ -4,7 +4,7 @@ I'm Caleb.
 
 :mortar_board: I graduated from **DigiPen Institute of Technology**, with a *Bachelor of Science in Computer Science in Real-Time Interactive Simulation* (RTIS).
 
-:hearts: I love programming C/C++ systems, and am actively developing my own ![graphics engine](https://github.com/Kaylubkiss/CWKVulkanEngine) with Vulkan. 
+:hearts: I love programming C/C++ systems, and am actively developing my own <a href="https://github.com/Kaylubkiss/CWKVulkanEngine">graphics engine</a> with Vulkan. 
 My goal is to push my knowledge on what's possible with real-time interactive graphics.
 
 :email: Also currently looking for work in the space of systems and graphics programming. 
